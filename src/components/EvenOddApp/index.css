@@ -1,0 +1,24 @@
+.bg-container {
+  height: 100vh;
+  width: 100vw;
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttonstate {
+  height: 40px;
+  width: 200px;
+  font-size: 12px;
+  border-radius: 5px;
+}
+
+.para {
+  font-size: 20px;
+}
+.paragraph {
+  font-size: 10px;
+  font-weight: 500;
+}
